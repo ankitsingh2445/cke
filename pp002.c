@@ -13,3 +13,11 @@ main()
 		        break;
 	}
 }
+
+
+// output of program.
+
+
+// input          output
+// 2              entered number 2 is even 
+// 17             entered number 17 is odd
